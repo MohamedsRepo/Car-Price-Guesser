@@ -2,7 +2,7 @@
 
 ## Overview
 
-Car Price Guesser is a streamlined Python tool that predicts used car resale values in **Indian Rupees (₹)** using a trained regression model.
+Car Price Guesser is a streamlined Python tool that predicts used car resale values in **Indian Rupees (₹)** using a trained regression model. To run it simply click twice on the RunApp.bat
 
 ## Features
 
