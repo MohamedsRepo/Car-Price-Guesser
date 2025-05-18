@@ -9,6 +9,7 @@ Car Price Guesser is a streamlined Python tool that predicts used car resale val
 * Data loading and preprocessing for common car features (make, model, year, kilometers driven, etc.)
 * Model training script to build or update prediction model
 * Command-line interface for quick price estimates
+* A Simple Bat file to Run The App and download requirments 
 
 ## Prerequisites
 
